@@ -2,7 +2,7 @@
 
 Cloud RAT, JavaScript programlama dilinde yazılmış Windows tabanlı bir R.A.T'dir (Uzaktan Yönetim Aracı).
 
-Cloud RAT uygulaması, Electron Framework, [electron framework](https://www.electronjs.org/), [React JS](https://reactjs.org/), and [Ant Design](https://ant.design/).
+Cloud RAT uygulaması,[electron framework](https://www.electronjs.org/), [React JS](https://reactjs.org/), and [Ant Design](https://ant.design/).
 
 # Mevcut Özellikler
 
